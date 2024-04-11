@@ -1,0 +1,9 @@
+indexes:
+
+- kind: changeReport
+  ancestor: no
+  properties:
+  - name: deviceMac
+    direction: asc
+  - name: createdAt
+    direction: desc
